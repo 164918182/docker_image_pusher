@@ -5,3 +5,4 @@ xhofe/alist:latest
 #支持指定架构11
 --platform=linux/arm64 xiaoyaliu/alist
 heartu41/oracle19c
+snowdreamtech/frpc
