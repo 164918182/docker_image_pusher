@@ -7,3 +7,6 @@ xhofe/alist:latest
 heartu41/oracle19c
 #frpc
 snowdreamtech/frpc
+#openwrt/openwrt
+--platform=linux/x86_64 openwrt/openwrt
+--platform=linux/arm64 openwrt/openwrt
