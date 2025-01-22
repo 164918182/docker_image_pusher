@@ -9,4 +9,3 @@ heartu41/oracle19c
 snowdreamtech/frpc
 #openwrt/openwrt
 --platform=linux/x86_64 sulinggg/openwrt
---platform=linux/arm64 sulinggg/openwrt
