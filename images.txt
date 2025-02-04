@@ -9,3 +9,4 @@ heartu41/oracle19c
 #openwrt/openwrt
 sulinggg/openwrt
 stilleshan/frps
+stilleshan/frpc
