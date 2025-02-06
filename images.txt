@@ -11,3 +11,4 @@ sulinggg/openwrt
 stilleshan/frps
 stilleshan/frpc
 snowdreamtech/frpc:0.46.1
+easychen/serverchan-wecom-proxy
