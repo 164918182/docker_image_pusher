@@ -1,16 +1,1 @@
-#nginx
-#支持私库
-#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-#xhofe/alist:latest
-#支持指定架构11
-#--platform=linux/arm64 xiaoyaliu/alist
-#heartu41/oracle19c
-#frpc
-#openwrt/openwrt
-#sulinggg/openwrt
-#stilleshan/frps
-#stilleshan/frpc
-#snowdreamtech/frpc:0.46.1
-#easychen/serverchan-wecom-proxy
-
 zzsrv/openwrt:amd64
