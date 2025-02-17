@@ -1,1 +1,1 @@
-zzsrv/openwrt:amd64
+gitlab/gitlab-ce
