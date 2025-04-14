@@ -3,3 +3,5 @@ python:3.9-slim-bullseye
 
 rockchin/langbot
 --platform linux/arm64 adguard/adguardhome
+
+adguard/adguardhome
