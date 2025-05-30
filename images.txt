@@ -5,3 +5,5 @@ rockchin/langbot
 --platform linux/arm64 adguard/adguardhome
 
 adguard/adguardhome
+
+rustdesk/rustdesk-server
