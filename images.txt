@@ -13,3 +13,7 @@ ionewu/owjdxb
 --platform linux/arm64 germannewsmaker/myspeed:1.0.9
 
 --platform linux/arm64 germannewsmaker/myspeed:latest
+
+
+
+--platform linux/amd64 germannewsmaker/myspeed:1.0.9
