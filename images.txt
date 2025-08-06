@@ -9,3 +9,5 @@ adguard/adguardhome
 rustdesk/rustdesk-server
 
 ionewu/owjdxb
+
+germannewsmaker/myspeed:1.0.9
