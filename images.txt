@@ -10,6 +10,6 @@ rustdesk/rustdesk-server
 
 ionewu/owjdxb
 
-germannewsmaker/myspeed:1.0.9
+--platform linux/arm64 germannewsmaker/myspeed:1.0.9
 
-germannewsmaker/myspeed:latest
+--platform linux/arm64 germannewsmaker/myspeed:latest
