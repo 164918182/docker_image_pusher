@@ -17,3 +17,6 @@ ionewu/owjdxb
 
 
 --platform linux/amd64 germannewsmaker/myspeed:1.0.9
+
+
+--platform linux/amd64 qbittorrentofficial/qbittorrent-nox:5.1.2-2
