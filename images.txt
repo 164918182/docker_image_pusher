@@ -23,4 +23,4 @@ ionewu/owjdxb
 
 --platform linux/amd64 openjdk:8-alpine
 
-linux/amd64 chat2db/chat2db:latest
+--platform linux/amd64 chat2db/chat2db:latest
