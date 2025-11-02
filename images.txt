@@ -27,4 +27,4 @@ ionewu/owjdxb
 
 --platform linux/amd64 playwright/chromium:playwright-1.56.1
 
---platform linux/amd64 nickrunning/wechat-selkies:latest
+--platform linux/arm64 nickrunning/wechat-selkies:latest
