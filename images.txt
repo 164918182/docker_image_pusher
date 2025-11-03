@@ -23,6 +23,8 @@ ionewu/owjdxb
 
 --platform linux/amd64 openjdk:8-alpine
 
+--platform linux/arm64 openjdk:8-alpine
+
 --platform linux/amd64 chat2db/chat2db:latest
 
 --platform linux/amd64 playwright/chromium:playwright-1.56.1
