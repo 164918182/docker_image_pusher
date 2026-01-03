@@ -1,2 +1,4 @@
 
 --platform linux/amd64 selenium/standalone-chrome:136.0-20251101
+
+--platform linux/arm64 amazoncorretto:8
