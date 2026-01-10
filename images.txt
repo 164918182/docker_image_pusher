@@ -1,4 +1,6 @@
 
---platform linux/amd64 selenium/standalone-chrome:136.0-20251101
+#--platform linux/amd64 selenium/standalone-chrome:136.0-20251101
 
---platform linux/arm64 amazoncorretto:8
+#--platform linux/arm64 amazoncorretto:8
+
+--platform linux/amd64 cloudflare/cloudflared:1800-17533b124c22
