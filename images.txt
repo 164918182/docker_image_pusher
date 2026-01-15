@@ -3,4 +3,5 @@
 
 #--platform linux/arm64 amazoncorretto:8
 
---platform linux/arm64 cloudflare/cloudflared:1800-17533b124c22
+--platform linux/amd64 gitea/gitea:1.25-nightly
+
