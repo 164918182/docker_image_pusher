@@ -3,5 +3,5 @@
 
 #--platform linux/arm64 amazoncorretto:8
 
---platform linux/amd64 gitea/gitea:1.25-nightly
+--platform linux/amd64 tailscale/tailscale
 
