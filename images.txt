@@ -3,5 +3,8 @@
 
 #--platform linux/arm64 amazoncorretto:8
 
---platform linux/amd64 tailscale/tailscale
+#--platform linux/amd64 tailscale/tailscale
+
+--platform linux/arm64 gitea/gitea:1.25-nightly
+--platform linux/arm64 homeassistant/home-assistant:2026.3.0.dev202602020311
 
