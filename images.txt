@@ -9,5 +9,7 @@
 #--platform linux/arm64 homeassistant/home-assistant:2026.3.0.dev202602020311
 
 
---platform linux/arm64 foru17/clash-master:66962a5
+#--platform linux/arm64 foru17/clash-master:66962a5
+
+--platform linux/arm64 gitea/act_runner:nightly
 
