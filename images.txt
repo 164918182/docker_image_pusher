@@ -11,5 +11,6 @@
 
 #--platform linux/arm64 foru17/clash-master:66962a5
 
---platform linux/arm64 gitea/act_runner:nightly
+#--platform linux/arm64 gitea/act_runner:nightly
+--platform linux/arm64 maven:3.8.6-jdk-8
 
