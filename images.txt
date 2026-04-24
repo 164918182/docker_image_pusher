@@ -16,5 +16,7 @@
 
 
 
---platform linux/arm64 zzsrv/openwrt:latest
+#--platform linux/arm64 zzsrv/openwrt:latest
+
+--platform linux/arm64 adguard/adguardhome:v0.107.74
 
