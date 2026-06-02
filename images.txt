@@ -18,5 +18,7 @@
 
 #--platform linux/arm64 zzsrv/openwrt:latest
 
---platform linux/arm64 adguard/adguardhome:v0.107.74
+#--platform linux/arm64 adguard/adguardhome:v0.107.74
+
+--platform linux/amd64 mongodb/mongodb-community-server:4.4.0-ubi8
 
